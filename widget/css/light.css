@@ -947,8 +947,8 @@ label {
 
 .dfp_mat {
 	display: block;
-	height: 40px;
-	line-height: 40px;
+	height: 30px;
+	line-height: 30px;
 	text-align: center;
 	box-sizing: border-box;
 	cursor: pointer;
