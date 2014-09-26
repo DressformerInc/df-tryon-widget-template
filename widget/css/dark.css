@@ -824,10 +824,12 @@ label {
 
 .dfd_silver {
 	background: linear-gradient(#f5f5f5, #fff, #606060, #d8d8d8);
+	color: #292929;
 }
 
 .dfd_gold {
 	background: linear-gradient(#fff9c8, #fff, #525000, #ffff94);
+	color: rgba(256, 256, 256, 0);
 }
 
 .dfd_carbon {
@@ -836,6 +838,7 @@ label {
 
 .dfd_plastic {
 	background: linear-gradient(#fff, #d0d0d0, #fff);
+	color: rgba(0, 0, 0, 0);
 }
 
 #dfg_item1 {
